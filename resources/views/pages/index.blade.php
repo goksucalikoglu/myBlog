@@ -10,7 +10,7 @@
 
 
       <section class="intro-section">
-    <h2 class="section-title">Hello, Daisy Murphy!</h2>
+    <h2 class="section-title">Göksu</h2>
     <p>I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print
         media. I enjoy turning complex problems into simple, beautiful and intuitive designs. My job is to
         build your website so that it is functional and user-friendly but at the same time attractive.
